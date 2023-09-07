@@ -1,0 +1,123 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <!-- Vercel Deployment -->
+   <url>
+      <loc>https://msl-titan-guide.vercel.app/</loc>
+      <priority>1.0</priority>
+   </url>
+   
+   <!-- Vercel Tips Page -->
+   <url>
+      <loc>https://msl-titan-guide.vercel.app/tips</loc>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- Vercel Titan Info Page -->
+   <url>
+      <loc>https://msl-titan-guide.vercel.app/titan-info</loc>
+      <priority>0.8</priority>
+   </url>
+
+   <!-- Vercel Fire Titan Page -->
+   <url>
+      <loc>https://msl-titan-guide.vercel.app/fire-titan</loc>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- Vercel Water Titan Page -->
+   <url>
+      <loc>https://msl-titan-guide.vercel.app/water-titan</loc>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- Vercel Wood Titan Page -->
+   <url>
+      <loc>https://msl-titan-guide.vercel.app/wood-titan</loc>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- Vercel Light Titan Page -->
+   <url>
+      <loc>https://msl-titan-guide.vercel.app/light-titan</loc>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- Vercel Dark Titan Page -->
+   <url>
+      <loc>https://msl-titan-guide.vercel.app/dark-titan</loc>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- Vercel About Page -->
+   <url>
+      <loc>https://msl-titan-guide.vercel.app/about</loc>
+      <priority>0.7</priority>
+   </url>
+   
+   <!-- Vercel Trinkets Page -->
+   <url>
+      <loc>https://msl-titan-guide.vercel.app/trinkets</loc>
+      <priority>0.7</priority>
+   </url>
+
+   <!-- Netlify Deployment -->
+   <url>
+      <loc>https://msl-titan-guide.netlify.app/</loc>
+      <priority>1.0</priority>
+   </url>
+   
+   <!-- Netlify Tips Page -->
+   <url>
+      <loc>https://msl-titan-guide.netlify.app/tips</loc>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- Netlify Titan Info Page -->
+   <url>
+      <loc>https://msl-titan-guide.netlify.app/titan-info</loc>
+      <priority>0.8</priority>
+   </url>
+
+   <!-- Netlify Fire Titan Page -->
+   <url>
+      <loc>https://msl-titan-guide.netlify.app/fire-titan</loc>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- Netlify Water Titan Page -->
+   <url>
+      <loc>https://msl-titan-guide.netlify.app/water-titan</loc>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- Netlify Wood Titan Page -->
+   <url>
+      <loc>https://msl-titan-guide.netlify.app/wood-titan</loc>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- Netlify Light Titan Page -->
+   <url>
+      <loc>https://msl-titan-guide.netlify.app/light-titan</loc>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- Netlify Dark Titan Page -->
+   <url>
+      <loc>https://msl-titan-guide.netlify.app/dark-titan</loc>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- Netlify About Page -->
+   <url>
+      <loc>https://msl-titan-guide.netlify.app/about</loc>
+      <priority>0.7</priority>
+   </url>
+   
+   <!-- Netlify Trinkets Page -->
+   <url>
+      <loc>https://msl-titan-guide.netlify.app/trinkets</loc>
+      <priority>0.7</priority>
+   </url>
+
+   <!-- Add more URLs as needed -->
+</urlset>
