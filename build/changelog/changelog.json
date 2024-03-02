@@ -1,0 +1,25 @@
+[
+{
+  
+    "date": "September 2023",
+      "logs": [
+        "Added team setups from MSL Wiki Discord.",
+        "Added my new team setups(2023).",
+        "Added leader skill info in tips section.",
+        "Updated tips page. The Buffs section now includes info about new healers.",
+        "Rewrote the whole website for better performance and user experience.",
+        "Fixed/changed the url paths. Now it's possible to use relative links.",
+        "Many UI changes."
+      ]
+    
+    
+  },
+  {
+    "date": "March 2024",
+      "logs": [
+        "Updated light and dark titan info.",
+        "Added my current light setup(March 2024).",
+        "Added Changelog"
+      ]
+  }
+]
